@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ace68f-dba9-4448-839b-54c66b4e5e1b" name="Default Changelist" comment="" />
+    <list default="true" id="f8ace68f-dba9-4448-839b-54c66b4e5e1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/news/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/news/news.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/notFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/privateRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/components/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/redux/actions/loginAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/redux/actions/newsAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/redux/reducers/loginReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/redux/reducers/newsReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../authorization/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deveopers-list/redux/redux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../deveopers-list/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dreammaker/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dreammaker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/cart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/catalog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/product-details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/product-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/product.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/product.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/components/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/redux/actions/shopActions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/redux/reducers/shopReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../e-commerce/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-learning/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-learning/express.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../express-learning/products.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/project.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/projects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/redux/actions/proj-action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/redux/reduce/pro-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/redux/reducers/proj-reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../med-pro/src/components/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mongo/mongoos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/movie.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/src/components/movie-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/src/components/movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie/src/components/movies-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/.idea/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project/src/components/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-less/src/components/todolist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-less/src/components/todotitle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../redux-less/src/redux/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tail/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tail/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tail/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tail/src/styles/tailwind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/.idea/tic-tac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tic-tac/src/components/board.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todos/.idea/todos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vaiscoode/.idea/vaiscode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-home/.idea/weather-home.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../weather-pp/.idea/weather-pp.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +136,7 @@
       <workItem from="1611048061991" duration="4353000" />
       <workItem from="1611124625602" duration="1488000" />
       <workItem from="1611128109684" duration="599000" />
+      <workItem from="1611135152303" duration="1289000" />
     </task>
     <servers />
   </component>
